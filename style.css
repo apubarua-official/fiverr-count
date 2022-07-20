@@ -1,0 +1,7 @@
+.nav .my-3{
+    flex-grow: 1;
+}
+.counter h1{
+    font-size: 25px;
+    text-align: center;
+}
